@@ -10,7 +10,7 @@ This repository provides a **pilot implementation** of a multi-agent evaluation 
 - Provide pilot results as a proof-of-concept for the proposed framework in our research paper.
 
 ### 📂 Dataset
-- The pilot uses **open clinical QA datasets** (e.g., MedQA, PubMedQA) as substitutes for real-world diagnostic cases.  
+- The pilot uses **open clinical QA datasets** (e.g., MedQA) as substitutes for real-world diagnostic cases.  
 - Each case is structured into JSON format including:  
   - `summary`  
   - `evidence_list`  
