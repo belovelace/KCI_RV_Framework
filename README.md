@@ -25,7 +25,6 @@ This repository provides a **pilot implementation** of a multi-agent evaluation 
 ---
 
 ### 한국어 (README)
-```markdown
 # 의료 LLM 신뢰성 평가 – 파일럿 코드
 
 이 저장소는 의료 분야에서 대규모 언어모델(LLM)의 **신뢰성 평가를 위한 멀티에이전트 프레임워크**를 파일럿으로 구현한 코드입니다.  
@@ -36,7 +35,7 @@ This repository provides a **pilot implementation** of a multi-agent evaluation 
 - 연구 논문에서 제안하는 평가 체계의 개념 증명(Proof-of-Concept)을 제공합니다.  
 
 ### 📂 데이터셋
-- 실제 임상 데이터를 대체하기 위해 **공개 임상 QA 데이터셋**(예: MedQA, PubMedQA)을 사용했습니다.  
+- 실제 임상 데이터를 대체하기 위해 **공개 임상 QA 데이터셋**(MedQA)을 사용했습니다.  
 - 각 케이스는 JSON 형식으로 구성됩니다:  
   - `summary`  
   - `evidence_list`  
@@ -47,4 +46,5 @@ This repository provides a **pilot implementation** of a multi-agent evaluation 
 1. 필수 라이브러리 설치  
    ```bash
    pip install -r requirements.txt
+
 
