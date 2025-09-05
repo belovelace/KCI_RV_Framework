@@ -1,0 +1,5 @@
+metric,mean,std,min,max,count
+accuracy,4.0,0.816496580927726,2,5,10
+explainability,3.2,0.4216370213557839,3,4,10
+consistency,4.0,0.816496580927726,2,5,10
+safety,4.7,0.6749485577105528,3,5,10
