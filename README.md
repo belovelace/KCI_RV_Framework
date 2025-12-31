@@ -1,5 +1,24 @@
 # KCI_RV_Framework
 This repository provides a pilot implementation of a multi-agent evaluation framework for assessing the trustworthiness of Large Language Models (LLMs) in medical domains.   
+
+## Citation
+
+If you find this work useful in your research, please cite the following paper:
+
+> Shin, E., Ko, S., Yang, U., Won, W., Na, K., Woo, H., & Lee, Y. (2025). A RV Framework for Evaluating the Trustworthiness of Medical Large Language Models. *Smart Media Journal*, *14*(12), 74-84.
+
+```bibtex
+@article{shin2025rv,
+  title={A RV Framework for Evaluating the Trustworthiness of Medical Large Language Models},
+  author={Shin, Eunji and Ko, Siyeon and Yang, Uijun and Won, Woohyung and Na, Kyungmin and Woo, Hyekyung and Lee, Youngho},
+  journal={Smart Media Journal},
+  volume={14},
+  number={12},
+  pages={74--84},
+  year={2025}
+}
+```
+
 # Medical LLM Trustworthiness Evaluation – Pilot Code
 
 This repository provides a **pilot implementation** of a multi-agent evaluation framework for assessing the trustworthiness of Large Language Models (LLMs) in medical domains.  
